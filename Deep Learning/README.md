@@ -32,5 +32,7 @@ The aim of this section is to build a solid understanding of **Neural Networks**
 | **Forward and Backward Propagation in ANN** | [PDF](Forward%20and%20Backward%20Propagration.pdf) | Detailed explanation of forward and backward propagation processes in neural networks. |
 | **Activation Functions and Cost Functions** | [PDF](Cost%20Functions%20and%20Activation%20Functions.pdf) | In-depth notes on various activation functions and cost functions used in deep learning. |
 | **Optimizers in Deep Learning** | [PDF](Optimizers.pdfpdf) | Comprehensive overview of optimization algorithms used for training deep neural networks. |
+| **Weight Initialization Techniques** | [PDF](Weight%20Initialization.pdf) | Notes on different weight initialization methods to improve training efficiency and performance. |
+| **Convolutional Neural Networks (CNNs)** | [PDF](Convolutional%20Neural%20Networks.pdf) | Detailed notes on CNN architectures, layers, and applications in image processing. |
 
 ---
