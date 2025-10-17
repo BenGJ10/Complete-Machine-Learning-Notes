@@ -18,11 +18,25 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
 ## Repository Structure
 
-- [Introduction to Machine Learning - NPTEL](Machine%20Learning/)
+- #### [Introduction to Machine Learning - NPTEL IIT Madras Notes](Machine%20Learning/)
 
     - [1. Linear Regression and Regularization Techniques](Machine%20Learning/Linear%20Regression%20and%20Regularizations.pdf)
 
     - [2. Logistic Regression and Linear Discriminant Analysis](Machine%20Learning/Logistic%20Regression%20and%20LDA.pdf)
+
+- #### [Complete Deep Learning Notes](Deep%20Learning/)
+
+    - [1. Introduction to ANN](Deep%20Learning/Introduction%20to%20ANN.pdf)
+
+    - [2. Forward and Backward Propagation](Deep%20Learning/Forward%20and%20Backward%20Propagration.pdf)
+
+    - [3. Activation Functions and Cost Functions](Deep%20Learning/Cost%20Functions%20and%20Activation%20Functions.pdf)
+
+    - [4. Optimizers in Deep Learning](Deep%20Learning/Optimizers.pdf)
+
+    - [5. Weight Initialization techniques](Deep%20Learning/Weight%20Initialization.pdf)
+
+    - [6. Convolutional Neural Networks (CNNs)](Deep%20Learning/Convolutional%20Neural%20Networks.pdf)
 
 ---
 
