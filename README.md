@@ -24,6 +24,12 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [2. Logistic Regression and Linear Discriminant Analysis](Machine%20Learning/Logistic%20Regression%20and%20LDA.pdf)
 
+    - [3. Support Vector Machines (SVMs)](Machine%20Learning/Support%20Vector%20Machines.pdf)
+
+    - [4. Bayesian Estimation](Machine%20Learning/Bayesian%20Estimation.pdf)
+
+    - [5. Decision Trees](Machine%20Learning/Complete%20Decision%20Trees.pdf)
+
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
     - [1. Introduction to ANN](Deep%20Learning/Introduction%20to%20ANN.pdf)
