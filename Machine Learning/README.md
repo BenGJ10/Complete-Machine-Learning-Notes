@@ -38,6 +38,7 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 | **Ridge and Lasso Regression** | [PDF](Linear%20Regression%20and%20Regularizations.pdf) | Detailed exploration of Ridge and Lasso regression methods. |
 | **Principal Component Analysis (PCA)** | [PDF](Linear%20Regression%20and%20Regularizations.pdf) | In-depth notes on PCA for dimensionality reduction. |
 | **Logistic Regression and LDA** | [PDF](Logistic%20Regression%20and%20LDA.pdf) | Comprehensive notes on logistic regression and linear discriminant analysis. |
+| **Support Vector Machines (SVM)** | [PDF](Support%20Vector%20Machines.pdf) | Detailed notes on SVM algorithms for classification tasks. |
 | **Bayesian Estimation** | [PDF](Bayesian%20Estimation.pdf) | Detailed notes on Bayesian estimation techniques in machine learning. Includes Maximum Likelihood and Maximum A Posteriori estimation methods. |
 | **Decision Trees for Classifiction and Regression** | [PDF](Complete%20Decision%20Trees.pdf) | Detailed notes on decision tree algorithms for classification and regression tasks. |
 ---
