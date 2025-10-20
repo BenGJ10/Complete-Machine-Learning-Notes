@@ -30,6 +30,8 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [5. Decision Trees](Machine%20Learning/Complete%20Decision%20Trees.pdf)
 
+    - [6. Ensemble Methods](Machine%20Learning/Ensemble%20Methods.pdf)
+
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
     - [1. Introduction to ANN](Deep%20Learning/Introduction%20to%20ANN.pdf)

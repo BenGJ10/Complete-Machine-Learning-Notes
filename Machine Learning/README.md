@@ -28,6 +28,14 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 
 8. **Linear Discriminant Analysis (LDA)**: A classification method that finds a linear combination of features to separate classes.
 
+9. **Support Vector Machines (SVM)**: Powerful classification algorithms that find the optimal hyperplane to separate classes.
+
+10. **Bayesian Estimation**: Techniques like Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP) for parameter estimation.
+
+11. **Decision Trees**: Algorithms for classification and regression tasks using tree-like models of decisions.
+
+12. **Ensemble Methods**: Techniques like Random Forests, AdaBoost, and Gradient Boosting to improve model performance by combining multiple models.
+
 ---
 
 ## Notes
@@ -41,5 +49,7 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 | **Support Vector Machines (SVM)** | [PDF](Support%20Vector%20Machines.pdf) | Detailed notes on SVM algorithms for classification tasks. |
 | **Bayesian Estimation** | [PDF](Bayesian%20Estimation.pdf) | Detailed notes on Bayesian estimation techniques in machine learning. Includes Maximum Likelihood and Maximum A Posteriori estimation methods. |
 | **Decision Trees for Classifiction and Regression** | [PDF](Complete%20Decision%20Trees.pdf) | Detailed notes on decision tree algorithms for classification and regression tasks. |
+| **Ensemble Methods** | [PDF](Ensemble%20Methods.pdf) | Comprehensive notes on ensemble learning techniques such as Random Forests, AdaBoost, and Gradient Boosting. |
+
 ---
 
