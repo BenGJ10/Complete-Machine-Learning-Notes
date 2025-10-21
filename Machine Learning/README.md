@@ -36,6 +36,8 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 
 12. **Ensemble Methods**: Techniques like Random Forests, AdaBoost, and Gradient Boosting to improve model performance by combining multiple models.
 
+13. **Bayesian Networks and Naive Bayes Classifier**: Probabilistic graphical models and classification algorithms based on Bayes' theorem.
+
 ---
 
 ## Notes
@@ -49,7 +51,9 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 | **Support Vector Machines (SVM)** | [PDF](Support%20Vector%20Machines.pdf) | Detailed notes on SVM algorithms for classification tasks. |
 | **Bayesian Estimation** | [PDF](Bayesian%20Estimation.pdf) | Detailed notes on Bayesian estimation techniques in machine learning. Includes Maximum Likelihood and Maximum A Posteriori estimation methods. |
 | **Decision Trees for Classifiction and Regression** | [PDF](Complete%20Decision%20Trees.pdf) | Detailed notes on decision tree algorithms for classification and regression tasks. |
+| **Classification Evaluation Metrics** | [PDF](Classification%20Evaluation.pdf) | Comprehensive notes on various evaluation metrics used in classification tasks, including accuracy, precision, recall, F1-score, and ROC-AUC. |
 | **Ensemble Methods** | [PDF](Ensemble%20Methods.pdf) | Comprehensive notes on ensemble learning techniques such as Random Forests, AdaBoost, and Gradient Boosting. |
+| **Bayesian Networks and Naive Bayes Classifier** | [PDF](Bayesian%20Networks%20and%20Naive%20Bayes.pdf) | Detailed notes on Bayesian networks and the Naive Bayes classification algorithm. |
 
 ---
 
