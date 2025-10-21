@@ -38,6 +38,8 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 
 13. **Bayesian Networks and Naive Bayes Classifier**: Probabilistic graphical models and classification algorithms based on Bayes' theorem.
 
+14. **Clustering Methods**: Unsupervised learning techniques like K-Means, Hierarchical Clustering and DBSCAN for grouping similar data points.
+
 ---
 
 ## Notes
@@ -54,6 +56,7 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 | **Classification Evaluation Metrics** | [PDF](Classification%20Evaluation.pdf) | Comprehensive notes on various evaluation metrics used in classification tasks, including accuracy, precision, recall, F1-score, and ROC-AUC. |
 | **Ensemble Methods** | [PDF](Ensemble%20Methods.pdf) | Comprehensive notes on ensemble learning techniques such as Random Forests, AdaBoost, and Gradient Boosting. |
 | **Bayesian Networks and Naive Bayes Classifier** | [PDF](Bayesian%20Networks%20and%20Naive%20Bayes.pdf) | Detailed notes on Bayesian networks and the Naive Bayes classification algorithm. |
+| **Clustering Methods** | [PDF](Clustering%20Methods.pdf) | Comprehensive notes on clustering algorithms including K-Means, Hierarchical Clustering, and DBSCAN. |
 
 ---
 
