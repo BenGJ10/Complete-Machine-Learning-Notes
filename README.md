@@ -32,6 +32,8 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [6. Ensemble Methods](Machine%20Learning/Ensemble%20Methods.pdf)
 
+    - [7. Bayesian Networks and Naive Bayes Classifier](Machine%20Learning/Bayesian%20Networks%20and%20Naive%20Bayes.pdf)
+
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
     - [1. Introduction to ANN](Deep%20Learning/Introduction%20to%20ANN.pdf)
