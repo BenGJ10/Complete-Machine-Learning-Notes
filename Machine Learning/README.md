@@ -40,6 +40,8 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 
 14. **Clustering Methods**: Unsupervised learning techniques like K-Means, Hierarchical Clustering and DBSCAN for grouping similar data points.
 
+15. **BIRCH and CURE Clustering Algorithms**: Advanced clustering algorithms for large datasets.
+
 ---
 
 ## Notes
@@ -57,6 +59,6 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 | **Ensemble Methods** | [PDF](Ensemble%20Methods.pdf) | Comprehensive notes on ensemble learning techniques such as Random Forests, AdaBoost, and Gradient Boosting. |
 | **Bayesian Networks and Naive Bayes Classifier** | [PDF](Bayesian%20Networks%20and%20Naive%20Bayes.pdf) | Detailed notes on Bayesian networks and the Naive Bayes classification algorithm. |
 | **Clustering Methods** | [PDF](Clustering%20Methods.pdf) | Comprehensive notes on clustering algorithms including K-Means, Hierarchical Clustering, and DBSCAN. |
-
+| **BIRCH and CURE Clustering Algorithms** | [PDF](BIRCH%20and%20CURE.pdf) | Detailed notes on BIRCH and CURE clustering algorithms for large datasets. |
 ---
 

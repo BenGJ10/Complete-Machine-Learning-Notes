@@ -30,11 +30,13 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [5. Decision Trees](Machine%20Learning/Complete%20Decision%20Trees.pdf)
 
-    - [6. Ensemble Methods](Machine%20Learning/Ensemble%20Methods.pdf)
+    - [6. Ensemble Methods ~ Baggging and Boosting](Machine%20Learning/Ensemble%20Methods.pdf)
 
     - [7. Bayesian Networks and Naive Bayes Classifier](Machine%20Learning/Bayesian%20Networks%20and%20Naive%20Bayes.pdf)
 
-    - [8. Clustering Methods](Machine%20Learning/Clustering%20Methods.pdf)
+    - [8. Clustering Methods ~ KMeans, Hierarchical and DBSCAN](Machine%20Learning/Clustering%20Methods.pdf)
+
+    - [BIRCH and CURE Algorithms](Machine%20Learning/BIRCH%20and%20CURE.pdf)
 
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
