@@ -26,7 +26,7 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [3. Support Vector Machines (SVMs)](Machine%20Learning/Support%20Vector%20Machines.pdf)
 
-    - [4. Bayesian Estimation](Machine%20Learning/Bayesian%20Estimation.pdf)
+    - [4. MLE, MAP and Bayesian Estimation](Machine%20Learning/Bayesian%20Estimation.pdf)
 
     - [5. Decision Trees](Machine%20Learning/Complete%20Decision%20Trees.pdf)
 
@@ -36,7 +36,7 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [8. Clustering Methods ~ KMeans, Hierarchical and DBSCAN](Machine%20Learning/Clustering%20Methods.pdf)
 
-    - [BIRCH and CURE Algorithms](Machine%20Learning/BIRCH%20and%20CURE.pdf)
+    - [9. BIRCH and CURE Algorithms](Machine%20Learning/BIRCH%20and%20CURE.pdf)
 
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
