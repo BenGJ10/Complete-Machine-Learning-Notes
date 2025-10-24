@@ -8,6 +8,10 @@ The goal of this section is to build a strong foundation in **Supervised Machine
 
 It bridges theory, math intuition, and hands-on implementation to help understand how classical ML models learn from data.
 
+## Contact
+
+**If you want to get the complete notes in a single PDF file, do message me on LinkedIn - [Ben Gregory John](https://www.linkedin.com/in/bengj10/)**
+
 ---
 
 ## Contents
@@ -60,5 +64,7 @@ It bridges theory, math intuition, and hands-on implementation to help understan
 | **Bayesian Networks and Naive Bayes Classifier** | [PDF](Bayesian%20Networks%20and%20Naive%20Bayes.pdf) | Detailed notes on Bayesian networks and the Naive Bayes classification algorithm. |
 | **Clustering Methods** | [PDF](Clustering%20Methods.pdf) | Comprehensive notes on clustering algorithms including K-Means, Hierarchical Clustering, and DBSCAN. |
 | **BIRCH and CURE Clustering Algorithms** | [PDF](BIRCH%20and%20CURE.pdf) | Detailed notes on BIRCH and CURE clustering algorithms for large datasets. |
+| **Gaussian Mixture Models (GMM)** | [PDF](Gaussian%20Mixtures.pdf) | Comprehensive notes on Gaussian Mixture Models for clustering and density estimation. |
+
 ---
 
