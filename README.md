@@ -15,6 +15,13 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 - **Transformers and Large Language Models**: Delves into the architecture, training, and applications of transformers and LLMs.
 
 ---
+## How to Use This Repository
+
+- **It is recommended to fork this repository to have your own copy for personal use and future reference.**
+
+- **You can download the notes as PDF files for offline study as well.**
+
+---
 
 ## Repository Structure
 
@@ -37,6 +44,8 @@ It is designed to serve as a **complete reference** for anyone looking to unders
     - [8. Clustering Methods ~ KMeans, Hierarchical and DBSCAN](Machine%20Learning/Clustering%20Methods.pdf)
 
     - [9. BIRCH and CURE Algorithms](Machine%20Learning/BIRCH%20and%20CURE.pdf)
+
+    - [19. Gaussian Mixture Models (GMM) and Expectation-Maximization (EM) Algorithm](Machine%20Learning/Gaussian%20Mixtures.pdf)
 
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
