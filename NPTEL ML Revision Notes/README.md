@@ -2,6 +2,10 @@
 
 This repository contains my complete revision notes for the NPTEL `Introduction to Machine Learning` course offered by IIT Madras. The notes cover all the essential topics taught in the `12-week course`, providing a comprehensive overview of machine learning concepts, algorithms, and applications.
 
+**Utilise these notes to reinforce your understanding of machine learning principles and prepare for NPTEL examination. More than what you need for the course!**
+
+---
+
 ## Important Links
 
 - [NPTEL Introduction to Machine Learning by IIT Madras](https://onlinecourses.nptel.ac.in/noc25_cs91/preview)
