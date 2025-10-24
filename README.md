@@ -45,7 +45,7 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [9. BIRCH and CURE Algorithms](Machine%20Learning/BIRCH%20and%20CURE.pdf)
 
-    - [19. Gaussian Mixture Models (GMM) and Expectation-Maximization (EM) Algorithm](Machine%20Learning/Gaussian%20Mixtures.pdf)
+    - [10. Gaussian Mixture Models (GMM) and Expectation-Maximization (EM) Algorithm](Machine%20Learning/Gaussian%20Mixtures.pdf)
 
 - #### [Complete Deep Learning Notes](Deep%20Learning/)
 
