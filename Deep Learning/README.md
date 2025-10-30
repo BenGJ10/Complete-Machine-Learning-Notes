@@ -36,5 +36,6 @@ The aim of this section is to build a solid understanding of **Neural Networks**
 | **Convolutional Neural Networks (CNNs)** | [PDF](Convolutional%20Neural%20Networks.pdf) | Detailed notes on CNN architectures, layers, and applications in image processing. |
 | **Recurrent Neural Networks (RNNs)** | [PDF](Recurrent%20Neural%20Networks.pdf) | Comprehensive notes on RNNs, including LSTM and GRU architectures for sequence modeling. |
 | **LSTM and GRU Networks** | [PDF](LSTM%20and%20GRU.pdf) | In-depth exploration of LSTM and GRU networks for handling long-term dependencies in sequences. |
+| **Seq2Seq Models and Attention Mechanism** | [PDF](Seq2Seq%20Models%20and%20Attention.pdf) | Notes on sequence-to-sequence models and the attention mechanism for improved performance in NLP tasks. |
 
 ---
