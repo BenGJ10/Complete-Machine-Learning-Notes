@@ -65,8 +65,8 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [8. LSTM and GRU Networks](Deep%20Learning/LSTM%20and%20GRU.pdf)
 
-    - [Seq2Seq Models and Attention Mechanism](Deep%20Learning/Seq2Seq%20Models%20and%20Attention.pdf)
-    
+    - [9. Seq2Seq Models and Attention Mechanism](Deep%20Learning/Seq2Seq%20Models%20and%20Attention.pdf)
+
 ---
 
 ## Resources Used
