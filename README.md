@@ -61,6 +61,9 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
     - [6. Convolutional Neural Networks (CNNs)](Deep%20Learning/Convolutional%20Neural%20Networks.pdf)
 
+    - [7. Recurrent Neural Networks (RNNs)](Deep%20Learning/Recurrent%20Neural%20Networks.pdf)
+
+    - [8. LSTM and GRU Networks](Deep%20Learning/LSTM%20and%20GRU.pdf)
 ---
 
 ## Resources Used
