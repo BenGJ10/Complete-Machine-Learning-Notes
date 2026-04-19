@@ -14,6 +14,8 @@ It is designed to serve as a **complete reference** for anyone looking to unders
 
 - **Transformers and Large Language Models**: Delves into the architecture, training, and applications of transformers and LLMs.
 
+❗️❗️**Ping me at [Ben Gregory John](https://linkedin.com/in/bengj10)** if you want the entire Machine Learning notes in one `pdf` ❗️❗️
+
 ---
 ## How to Use This Repository
 
